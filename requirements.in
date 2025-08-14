@@ -1,0 +1,6 @@
+g4f
+fastapi
+uvicorn
+langchain
+langchain-core
+langchain-community

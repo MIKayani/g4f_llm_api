@@ -1,0 +1,100 @@
+{
+    "gpt-4": [
+        "AnyProvider",
+        "WeWordle",
+        "Yqcloud"
+    ],
+    "gpt-4o-mini": [
+        "AnyProvider",
+        "ApiAirforce",
+        "Chatai",
+        "OIVSCodeSer2"
+    ],
+    "gpt-4.1": [
+        "PollinationsAI"
+    ],
+    "gpt-4.1-mini": [
+        "AnyProvider",
+        "OIVSCodeSer0501"
+    ],
+    "gpt-4.1-nano": [
+        "AnyProvider",
+        "PollinationsAI"
+    ],
+    "gemini-1.5-pro": [
+        "AnyProvider",
+        "TeachAnything"
+    ],
+    "gemini-2.5-pro": [
+        "AnyProvider",
+        "GeminiCLI"
+    ],
+    "gemini-2.5-flash": [
+        "AnyProvider",
+        "GeminiCLI"
+    ],
+    "qwen-2-72b": [
+        "HuggingSpace",
+        "Qwen_Qwen_2_72B"
+    ],
+    "qwen-2.5": [
+        "Qwen_Qwen_2_5"
+    ],
+    "qwen-2.5-coder-32b": [
+        "PollinationsAI"
+    ],
+    "qwen-2.5-max": [
+        "Qwen_Qwen_2_5_Max"
+    ],
+    "qwen-3-32b": [
+        "AnyProvider"
+    ],
+    "Qwen/Qwen3-235B-A22B-Thinking-2507": [
+        "DeepInfra"
+    ],
+    "Qwen/Qwen3-Coder-480B-A35B-Instruct": [
+        "DeepInfra",
+        "DeepInfraChat"
+    ],
+    "Qwen/Qwen3-235B-A22B-Instruct-2507": [
+        "DeepInfra",
+        "DeepInfraChat"
+    ],
+    "Qwen/Qwen3-32B": [
+        "DeepInfra",
+        "DeepInfraChat"
+    ],
+    "Qwen/QwQ-32B": [
+        "DeepInfra",
+        "DeepInfraChat"
+    ],
+    "deepseek-r1-distill-llama-70b": [
+        "AnyProvider"
+    ],
+    "deepseek-r1-0528": [
+        "AnyProvider"
+    ],
+    "deepseek-ai/DeepSeek-R1-0528": [
+        "DeepInfra",
+        "DeepInfraChat"
+    ],
+    "deepseek-ai/DeepSeek-R1-Distill-Llama-70B": [
+        "DeepInfra",
+        "DeepInfraChat"
+    ],
+    "deepseek-v3": [
+        "AnyProvider",
+        "ApiAirforce"
+    ],
+    "deepseek-v3-0324": [
+        "AnyProvider"
+    ],
+    "deepseek-ai/DeepSeek-V3-0324": [
+        "DeepInfra",
+        "DeepInfraChat"
+    ],
+    "deepseek-ai/DeepSeek-V3": [
+        "DeepInfra",
+        "DeepInfraChat"
+    ]
+}
