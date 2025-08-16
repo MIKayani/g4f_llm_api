@@ -1,0 +1,5 @@
+{
+    "blacklisted_models": [],
+    "blacklisted_providers": ["HuggingSpace"],
+    "blacklisted_model_providers": {}
+}

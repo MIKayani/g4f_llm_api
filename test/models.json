@@ -1,0 +1,93 @@
+{
+  "anima-pencil-xl": [
+    "anima-pencil-xl"
+  ],
+  "flux": [
+    "PollinationsAI:flux",
+    "flux"
+  ],
+  "flux-1-kontext-dev": [
+    "flux-1-kontext-dev"
+  ],
+  "flux-1-kontext-max": [
+    "flux-1-kontext-max"
+  ],
+  "flux-1-kontext-pro": [
+    "flux-1-kontext-pro"
+  ],
+  "flux-1.1-pro": [
+    "flux-1.1-pro"
+  ],
+  "flux-canny": [
+    "flux-canny"
+  ],
+  "flux-depth": [
+    "flux-depth"
+  ],
+  "flux-dev": [
+    "flux-dev"
+  ],
+  "flux-dev-lora": [
+    "flux-dev-lora"
+  ],
+  "flux-kontext": [
+    "flux-kontext"
+  ],
+  "flux-kontext-dev": [
+    "flux-kontext-dev"
+  ],
+  "flux-kontext-pro": [
+    "flux-kontext-pro"
+  ],
+  "flux-krea-blaze": [
+    "flux-krea-blaze"
+  ],
+  "flux-krea-dev": [
+    "flux-krea-dev"
+  ],
+  "flux-krea-dev-gguf": [
+    "flux-krea-dev-gguf"
+  ],
+  "flux-pro": [
+    "flux-pro"
+  ],
+  "flux-redux": [
+    "flux-redux"
+  ],
+  "flux-schnell": [
+    "flux-schnell"
+  ],
+  "imagen-3-generate": [
+    "imagen-3.0-generate",
+    "imagen-3.0-generate-002"
+  ],
+  "imagen-4-generate": [
+    "imagen-4.0-generate",
+    "imagen-4.0-generate-preview-06-06"
+  ],
+  "imagen-4-ultra-generate": [
+    "imagen-4.0-ultra-generate",
+    "imagen-4.0-ultra-generate-preview-06-06"
+  ],
+  "sdxl": [
+    "sdxl-1.0"
+  ],
+  "sdxl-l": [
+    "sdxl-l"
+  ],
+  "sdxl-turbo": [
+    "sdxl-turbo"
+  ],
+  "stable-diffusion-3.5-large": [
+    "stable-diffusion-3.5-large"
+  ],
+  "stable-diffusion-3.5-small": [
+    "stable-diffusion-3.5-small-preview1"
+  ],
+  "stable-diffusion-v": [
+    "stable-diffusion-v1-5"
+  ],
+  "stable-diffusion-xl-base": [
+    "stable-diffusion-xl-base-1.0"
+  ]
+}
